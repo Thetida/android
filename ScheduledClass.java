@@ -10,9 +10,7 @@ import java.io.InputStreamReader;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by giannis on 11/4/15.
- */
+
 public class ScheduledClass extends TimerTask{
     String job;
     MyXmlParser xmlp;
