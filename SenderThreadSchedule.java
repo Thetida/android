@@ -10,9 +10,7 @@ import java.io.InputStreamReader;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by giannis on 11/16/15.
- */
+
 public class SenderThreadSchedule extends TimerTask {
     SharedMemOut shm;
     Timer time;
