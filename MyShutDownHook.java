@@ -7,9 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.LinkedBlockingQueue;
 
-/**
- * Created by giannis on 11/4/15.
- */
+
 public class MyShutDownHook extends Thread{
     boolean checker;
     List consumerthreads;
