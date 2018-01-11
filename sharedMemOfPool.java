@@ -7,9 +7,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.LinkedBlockingQueue;
 
-/**
- * Created by giannis on 10/25/15.
- */
+
 public class sharedMemOfPool {
    List<String> myStack=new LinkedList<>();
     boolean valueSet=true;
