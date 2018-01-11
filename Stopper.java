@@ -1,8 +1,6 @@
 package com.MyHook;
 
-/**
- * Created by giannis on 11/19/15.
- */
+
 public class Stopper {
     volatile boolean checker;
     public Stopper(){
