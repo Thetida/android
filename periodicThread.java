@@ -7,9 +7,7 @@ import com.MyHook.Stopper;
 import com.periodicThreads.ScheduledClass;
 import com.sharedmemforoutput.SharedMemOut;
 
-/**
- * Created by giannis on 11/4/15.
- */
+
 public class periodicThread implements Runnable{
     String job;
     Integer periodicwait;
