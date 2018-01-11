@@ -22,9 +22,6 @@ import com.oneTimeThreads.mySharedMem.sharedMemOfPool;
 import com.periodicThreads.periodicThread;
 import com.sharedmemforoutput.SharedMemOut;
 
-/**
- * Created by giannis on 10/17/15.
- */
 public class Main {
 
     public static void main(String[] args) {
